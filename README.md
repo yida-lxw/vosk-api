@@ -27,7 +27,7 @@ For installation instructions, examples and documentation visit [Vosk
 Website](https://alphacephei.com/vosk).
 
 # Requirements
-Python 3.8+
+Python 3.8+ <br/>
 CentOS 7.x(理论上Ubuntu也可以,但是我没有测试过)
 
 # Build(CPU)
